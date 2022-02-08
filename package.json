@@ -1,0 +1,47 @@
+{
+  "name": "hr-bge0-mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehimmat/hr-bge0-mvp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehimmat/hr-bge0-mvp/issues"
+  },
+  "homepage": "https://github.com/thehimmat/hr-bge0-mvp#readme",
+  "dependencies": {
+    "@babel/core": "^7.16.10",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "@googlemaps/react-wrapper": "^1.1.21",
+    "@iconify/icons-mdi": "^1.1.44",
+    "@react-google-maps/api": "^2.7.0",
+    "axios": "^0.25.0",
+    "babel": "^6.23.0",
+    "babel-loader": "^8.2.3",
+    "express": "^4.17.2",
+    "google-map-react": "^2.1.10",
+    "google-maps": "^4.3.3",
+    "iconify": "^1.4.0",
+    "node": "^17.4.0",
+    "pg": "^8.7.1",
+    "postgres": "^1.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.67.0"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.14.5",
+    "@iconify/react": "^3.1.3",
+    "webpack-cli": "^4.9.2"
+  }
+}
