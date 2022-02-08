@@ -36,4 +36,4 @@ bower_components/
 
 # others
 bundle.js*
-server/config.js
+config.*
